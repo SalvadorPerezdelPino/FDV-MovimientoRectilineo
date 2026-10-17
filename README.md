@@ -3,7 +3,7 @@ Note: this repository has been updated in Perforce. The final version is the one
 ![History](./images/history.png)
 
 ## Exercise 1: flying as a plane.
-Instead of multiplying the goal, it's added in each frame. This way, the increment is smoother and the cube flies more like a plane.
+Instead of multiplying the goal's direction, it's added in each frame. This way, the increment is smoother and the cube flies more like a plane.
 ![Flying as a plane](./images/Plane.gif)
 
 ## Exercise 2: stable speed with framerate.
